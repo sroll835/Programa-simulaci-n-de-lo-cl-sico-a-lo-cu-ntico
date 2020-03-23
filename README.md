@@ -1,1 +1,1 @@
-# Programa-simulaciOn de lo clasico a lo cuantico
+# Programa-simulacion de lo clasico a lo cuantico
