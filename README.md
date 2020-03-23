@@ -4,11 +4,11 @@
 
 # Contenido:
 
-Sistema clásico
-Sistema Clásico - Juego de las canicas
-Sistema probabilístico
-Ensamble de sistemas probabilísticos
-Sistemas cuánticos
-Experimento de la doble rendija (probabilístico)
-Experimento de la doble rendija (cuántico)
-Experimento de las doble rendija realizado en físico
+### - Sistema clásico
+### - Sistema Clásico - Juego de las canicas
+### - Sistema probabilístico
+### - Ensamble de sistemas probabilísticos
+### - Sistemas cuánticos
+### - Experimento de la doble rendija (probabilístico)
+### - Experimento de la doble rendija (cuántico)
+### - Experimento de las doble rendija realizado en físico
